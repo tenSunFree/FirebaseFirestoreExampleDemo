@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=7kdknANKwSM
 <p align="left">
   <img src="https://i.imgur.com/oyyiUEK.png" width="230"/>
   <img src="https://i.imgur.com/FHOV7u4.png" width="230"/>
-  <img src="https://i.imgur.com/TlQaBir.png" width="230"/>
 </p> 
+<img src="https://i.imgur.com/TlQaBir.png" width="530"/>
 
 備註
 --------
